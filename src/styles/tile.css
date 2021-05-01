@@ -1,0 +1,22 @@
+.tile{
+width: 300px;
+margin-bottom: 30px;       
+}
+.tile img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: 100%;
+}
+
+.tile h3{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29.05px;
+}
+.tile p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
